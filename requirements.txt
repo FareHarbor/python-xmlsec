@@ -1,2 +1,2 @@
-pkgconfig
+pkgconfig == 1.5.2
 lxml >= 3.8.0
